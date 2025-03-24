@@ -43,6 +43,7 @@ LinuxDo Scripts is a feature-rich browser extension designed to enhance the user
 - Optimize mixed Chinese-English text display
 - Optimize signature image display to prevent broken images
 - Automatic dark mode switching
+- Image Preview Enhancement
 
 ### 📚 Content Management
 - Comprehensive bookmark functionality
